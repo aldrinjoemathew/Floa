@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sticky Note</string>
+    <string name="heads_up">#Click on the logo to maximize sticky note window and start writing by clicking on the blank space.\n\n#Continue with other actions in your phone just by clicking on the logo again.\n\n#Move the note by dragging the logo.\n\n Start sticking now.</string>
+</resources>
